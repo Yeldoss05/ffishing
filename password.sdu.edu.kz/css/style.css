@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	padding: 0;    
+	font-family: Arial, Helvetica, sans-serif;	height: 100%;
+	width: 100%;
+}
+.header {
+	border-top: 8px solid #A03133;
+	border-bottom: 8px solid #A03133;
+	margin-top: 20px;
+}
+.logo {
+	text-align: center;
+}
+.form {
+	text-align: center;
+	border: 2px solid #A03133;
+	border-radius: 6px;
+	margin: auto;
+	margin-top: 3.8%;
+	width: 350px
+}
+.email-form {
+	background-color: #F1F1F1;
+	margin: 5px;
+	border-radius: 6px;
+	padding: 25px 15px 25px 15px;
+}
+.title {
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+.title b {
+	font-size: 1.1em;
+	color: #05B8E5;
+}
+.title .second {
+	font-size: 0.8em;
+}
+.input-text {
+	font-size: 0.85em;
+	color: #0054A9;
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+.input input {
+	margin-bottom: 20px;
+	display: block;
+	width: 90%;
+	height: 20px;
+}
+.input {
+	text-align: left;
+}

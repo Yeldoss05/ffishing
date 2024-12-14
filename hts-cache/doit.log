@@ -1,0 +1,8 @@
+https://moodle.sdu.edu.kz -O /Users/Yukki/Desktop/moodle_copy +*.sdu.edu.kz/* -v
+File generated automatically on Sat, 14 Dec 2024 12:16:49, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
